@@ -1,4 +1,4 @@
-# CPR_Sustainability
+tio# CPR_Sustainability
 Code used in master project 'The Effects of Network Structure on the Sustainability of Common Pool Resources'
 
 This is the code I used in all simulations for my master project. It is not super well documented, I know, but if there are any questions about what I did please don't hesitate to contact me!
@@ -16,5 +16,5 @@ The files contain the following code:
   
   degree_average_strategy.py:   Conducts the simulation used to obtain the degree dependence of the average strategy pursued by nodes of different degrees
   
-  MF_comparison.py:             Simulates a number of systems to obatain the average numbers of susceptible nodes for different networks and marginal costs. Then                                   goes on to calculate the FA and SA model predictions.
+  MF_corrections.py:             Simulates a number of systems to obatain the average numbers of susceptible nodes for different networks and marginal costs. Then                                    goes on to calculate the FA and SA model predictions.
   
