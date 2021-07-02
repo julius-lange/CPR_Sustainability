@@ -1,4 +1,3 @@
-tio# CPR_Sustainability
 Code used in master project 'The Effects of Network Structure on the Sustainability of Common Pool Resources'
 
 This is the code I used in all simulations for my master project. It is not super well documented, I know, but if there are any questions about what I did please don't hesitate to contact me!
